@@ -1,0 +1,1 @@
+En este proyecto me centre en dominar los tipos de uniones de tablas en Python. Además, pude reforzar mis habilidades limpiando valores nulos, tratando con valores fuera de un rango determinado y posibles errores de escritura al cargar los datos.
